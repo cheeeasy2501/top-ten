@@ -1,0 +1,1 @@
+For debugging use "node index.js"
